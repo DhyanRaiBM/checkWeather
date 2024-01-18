@@ -8,6 +8,8 @@ This is a simple weather app that allows users to check the current weather cond
 - Search for the weather in a specific location.
 
 ==> Demo
+**Note:** The site may take some time to load, so please wait up to 1 minute.
+
 [Live Demo](https://checkweather-39r5.onrender.com)
 
 ==> Technologies Used
